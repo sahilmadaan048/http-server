@@ -1,0 +1,9 @@
+(function() {
+    var implementors = Object.fromEntries([["steamtrain",[["impl <a class=\"trait\" href=\"https://doc.rust-lang.org/1.82.0/core/panic/unwind_safe/trait.UnwindSafe.html\" title=\"trait core::panic::unwind_safe::UnwindSafe\">UnwindSafe</a> for <a class=\"enum\" href=\"steamtrain/enum.HttpMethod.html\" title=\"enum steamtrain::HttpMethod\">HttpMethod</a>",1,["steamtrain::HttpMethod"]],["impl <a class=\"trait\" href=\"https://doc.rust-lang.org/1.82.0/core/panic/unwind_safe/trait.UnwindSafe.html\" title=\"trait core::panic::unwind_safe::UnwindSafe\">UnwindSafe</a> for <a class=\"struct\" href=\"steamtrain/struct.Client.html\" title=\"struct steamtrain::Client\">Client</a>",1,["steamtrain::Client"]],["impl <a class=\"trait\" href=\"https://doc.rust-lang.org/1.82.0/core/panic/unwind_safe/trait.UnwindSafe.html\" title=\"trait core::panic::unwind_safe::UnwindSafe\">UnwindSafe</a> for <a class=\"struct\" href=\"steamtrain/struct.Request.html\" title=\"struct steamtrain::Request\">Request</a>",1,["steamtrain::Request"]],["impl <a class=\"trait\" href=\"https://doc.rust-lang.org/1.82.0/core/panic/unwind_safe/trait.UnwindSafe.html\" title=\"trait core::panic::unwind_safe::UnwindSafe\">UnwindSafe</a> for <a class=\"struct\" href=\"steamtrain/struct.Response.html\" title=\"struct steamtrain::Response\">Response</a>",1,["steamtrain::Response"]],["impl <a class=\"trait\" href=\"https://doc.rust-lang.org/1.82.0/core/panic/unwind_safe/trait.UnwindSafe.html\" title=\"trait core::panic::unwind_safe::UnwindSafe\">UnwindSafe</a> for <a class=\"struct\" href=\"steamtrain/struct.Server.html\" title=\"struct steamtrain::Server\">Server</a>",1,["steamtrain::Server"]]]]]);
+    if (window.register_implementors) {
+        window.register_implementors(implementors);
+    } else {
+        window.pending_implementors = implementors;
+    }
+})()
+//{"start":57,"fragment_lengths":[1628]}

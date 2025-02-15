@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"enum":["HttpMethod"],"fn":["main","read_header_line"],"struct":["Client","Request","Response","Server"],"type":["Headers"]};
